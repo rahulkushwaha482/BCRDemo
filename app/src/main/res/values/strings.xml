@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BCRDemo</string>
+    <string name="name">Name</string>
+    <string name="job_title">Job Title</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="text_details">Text Details</string>
+</resources>
